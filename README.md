@@ -1,6 +1,6 @@
 # Overview : Customer-Satisfaction
 
-link ppt : ![Laporan Lengkap Customer Satisfaction](https://docs.google.com/presentation/d/1ACNR_HD7tJjat5QGnfBWlEjOCMU_lmnaeOh5F38sN3o/edit?usp=sharing)
+link ppt : [Laporan Lengkap Customer Satisfaction](https://docs.google.com/presentation/d/1ACNR_HD7tJjat5QGnfBWlEjOCMU_lmnaeOh5F38sN3o/edit?usp=sharing)
 
 # Latar Belakang
 Proyek ini bertujuan untuk menganalisis kepuasan pelanggan dan sentimen pengguna terhadap layanan ticketing system. Analisis ini dilakukan dengan menggunakan data survei yang berisi rating, skor, serta ulasan teks dari pengguna. Sebagai seorang data analyst di perusahaan konsultan, peran utama adalah menyatukan laporan terkait Customer Satisfaction dan Sentiment Analysis ke dalam sebuah dashboard, sekaligus menyajikan insight yang relevan untuk pengambilan keputusan.
